@@ -16,9 +16,6 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-" alt="css" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="<p align="left"> <img srchttps://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40"/> </a> </p>
 " alt="spring" width="40" height="40"/> </a> </p>
 
