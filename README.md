@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sezin Tekin.</h1>
-- 🔭 I’m currently working at **Value Analytics Labs.**
+<h1 align="left">Hi 👋, I'm Sezin Tekin.</h1>
+
+- 🔭 I’m currently working at Value Analytics Labs.
 
 - 📫 How to reach me: **tekin.sezin@gmail.com**
 
