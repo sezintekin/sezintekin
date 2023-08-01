@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sezin Tekin.</h1>
 
-- 🔭 I’m currently working at Value Analytics Labs as Data Scientist Intern.
+- 🔭 I’m currently working at Value Analytics Labs as a Data Scientist Intern.
 
 - 📫 How to reach me: **tekin.sezin@gmail.com**
 
