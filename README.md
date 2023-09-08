@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sezin Tekin.</h1>
+<h1 align="left">Hi, I'm Sezin Tekin.</h1>
 
 - 🔭 I’m currently working at Value Analytics Labs as a Data Scientist Intern.
 
