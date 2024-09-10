@@ -1,9 +1,5 @@
 <h1 align="left">Hi, I'm Sezin Tekin.</h1>
 
-- 🔭 I’m currently working at Value Analytics Labs as a Data Scientist Intern.
-
-- 📫 How to reach me: **tekin.sezin@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sezin-tekin-36b571210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sezintekin" height="30" width="40" /></a>
